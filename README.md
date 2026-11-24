@@ -15,3 +15,8 @@ This is a clean, easy to use, responsive web application for finding the weather
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 - **API:** [Weather API](https://wttr.in)
+- **Deployment:** Netlify
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
