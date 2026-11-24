@@ -2,7 +2,7 @@
 
 This is a clean, easy to use, responsive web application for finding the weather of Indian cities from different states. It provides real-time weather updates of the respective city selected. Build to deliver fast and accurate  meteorological data with a modern user interface.
 
-![App Screenshot](/weatherappui.png)
+![App Screenshot](/weatherappui2.png)
 
 ## ✨ Features
 
